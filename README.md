@@ -37,18 +37,18 @@ reproducible computational systems, and moving between the two comfortably.
 <td width="42%" valign="top">
 
 ```yaml
-# ── Profile ──────────────
+── Profile ──────────────
 Name:      Hasini De Silva
 Role:      AI-Driven Bioinformatician
 Location:  United Kingdom
 
-# ── Education ────────────
+── Education ────────────
 Degrees:
   - MSc Bioinformatics · Distinction
   - BSc Biomedical Science · First-Class
   - University of Bristol
 
-# ── Focus ────────────────
+── Focus ────────────────
 Focus:
   - AI for Drug Discovery
   - Protein Design & Structure
